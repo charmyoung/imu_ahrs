@@ -1,2 +1,2 @@
 hardware:
-ÌÝÐÎ°å mpu6050+hmc5883l
+stm32f405 mpu6050+hmc5883l
