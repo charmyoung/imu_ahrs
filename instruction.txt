@@ -1,0 +1,2 @@
+hardware:
+ÌÝÐÎ°å mpu6050+hmc5883l
