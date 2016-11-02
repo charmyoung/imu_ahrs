@@ -1,0 +1,14 @@
+..\binary\storage_manager.o: ..\core\mllite\storage_manager.c
+..\binary\storage_manager.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\binary\storage_manager.o: ..\core\mllite\storage_manager.h
+..\binary\storage_manager.o: ..\core\driver\include\mltypes.h
+..\binary\storage_manager.o: ..\core\driver\include\stdint_invensense.h
+..\binary\storage_manager.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\binary\storage_manager.o: D:\Keil\ARM\ARMCC\Bin\..\include\errno.h
+..\binary\storage_manager.o: D:\Keil\ARM\ARMCC\Bin\..\include\limits.h
+..\binary\storage_manager.o: ..\core\driver\include\log.h
+..\binary\storage_manager.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\binary\storage_manager.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdarg.h
+..\binary\storage_manager.o: ..\core\mllite\ml_math_func.h
+..\binary\storage_manager.o: ..\core\driver\include\mlmath.h
+..\binary\storage_manager.o: D:\Keil\ARM\ARMCC\Bin\..\include\math.h
