@@ -1,6 +1,9 @@
 #  Migration Version Beta 1.0
 ## HARDWARE
 #### MCU: STM32F4 Waveshare Board
+- STM32F405RTG6 
+- HSE-value: 8000000
+- pll_m: 8
 #### Inertial Sensor: MPU9250 (9 axis)
 ## IDE
 #### MDK5.20 & KEIL
